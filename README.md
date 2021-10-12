@@ -1,1 +1,1 @@
-It's Tic Tac Toe, its simple. Get your friends and compete! Lets see who wins!
+It's Tic Tac Toe, its simple, its the classic. Get your friends and compete! Lets see who wins!
